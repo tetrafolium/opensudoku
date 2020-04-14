@@ -40,6 +40,9 @@ public class AndroidUtils {
             case "default":
                 context.setTheme(R.style.Theme_Default);
                 break;
+            case "paper":
+                context.setTheme(R.style.Theme_Paper);
+                break;
             case "light":
                 context.setTheme(R.style.Theme_Light);
                 break;
