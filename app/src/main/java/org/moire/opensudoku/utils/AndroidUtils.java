@@ -43,11 +43,11 @@ public class AndroidUtils {
             case "paper":
                 context.setTheme(R.style.Theme_Paper);
                 break;
-            case "graphpaper":
-                context.setTheme(R.style.Theme_GraphPaper);
-                break;
             case "light":
                 context.setTheme(R.style.Theme_Light);
+                break;
+            case "graphpaper":
+                context.setTheme(R.style.Theme_GraphPaper);
                 break;
             case "paperlight":
                 context.setTheme(R.style.Theme_PaperLight);
