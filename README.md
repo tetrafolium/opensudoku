@@ -1,6 +1,5 @@
 # Open Sudoku
 
-
 [Open Sudoku](https://opensudoku.moire.org/) is a simple open-source Sudoku game.
 It's designed to be controlled both by finger and keyboard.
 It's preloaded with 90 puzzles in 3 difficulty levels.
